@@ -1,6 +1,6 @@
 ### Hi, I'm Victor 👋
 
-Founder of **[HopBase](https://hop-base.com)**, an enterprise AI gateway: one OpenAI/Anthropic-compatible API for chat, coding, image and video models, with routing, failover and per-call cost tracking. Also co-founder of **Memory Science** (UK), the team behind [novery.ai](https://novery.ai).
+Founder of **[HopBase](https://hop-base.com)**, an enterprise AI gateway: one OpenAI/Anthropic-compatible API for chat, coding, image and video models, with routing, failover and per-call cost tracking. Also co-founder of **Memory Science** (UK), the team behind novery.ai.
 
 - 🔌 Building integrations so HopBase works out of the box in the tools developers already use: [Dify plugin](https://github.com/victor-zzh/dify-plugin-hopbase), OpenCode, Vercel AI SDK and LiteLLM.
 - 📈 Into growth engineering: treating acquisition, activation and retention as systems you can build, measure and iterate on.
